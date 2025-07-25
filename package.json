@@ -1,0 +1,13 @@
+{
+  "name": "sa-qa-akash-bhargava",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:headed": "npx playwright test --headed"
+  },
+  "dependencies": {
+    "@playwright/test": "^1.44.0",
+    "typescript": "^5.5.3",
+    "ts-node": "^10.9.2"
+  }
+}
