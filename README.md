@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 README.md
 # SA-QA-Akash-Bhargava Automation Suite
 
@@ -12,3 +13,6 @@ This repository contains automated UI tests for Sauce Demo (https://www.saucedem
    ```bash
    git clone https://github.com/[YourGitHub]/SA-QA-[YourName].git
    cd SA-QA-[YourName]
+=======
+
+>>>>>>> c16320f (Update README.md)
