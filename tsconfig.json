@@ -11,3 +11,5 @@
   "include": ["pages/**/*", "tests/**/*", "config/**/*", "playwright.config.ts"],
   "exclude": ["node_modules"]
 }
+
+
