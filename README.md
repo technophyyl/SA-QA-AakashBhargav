@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-README.md
 # SA-QA-Akash-Bhargava Automation Suite
 
 This repository contains automated UI tests for Sauce Demo (https://www.saucedemo.com) using Playwright and TypeScript with custom fixtures and centralized data-test locators.
@@ -11,8 +9,5 @@ This repository contains automated UI tests for Sauce Demo (https://www.saucedem
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/[YourGitHub]/SA-QA-[YourName].git
-   cd SA-QA-[YourName]
-=======
-
->>>>>>> c16320f (Update README.md)
+   git clone https://github.com/technophyyl/SA-QA-AakashBhargav.git
+   cd SA-QA-AKASH_BHARGAVA
